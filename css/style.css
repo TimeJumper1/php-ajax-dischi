@@ -10,6 +10,10 @@ header{
     height: 80px;
     background-color: #2e3a46;
 }
+.logo{
+    height: auto;
+    width: 70px;
+}
 .container{
     width: 70%;
     margin: auto;

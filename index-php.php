@@ -12,7 +12,7 @@ require __DIR__ . '/database.php';
 </head>
 <body>
     <header>
-        logo spotify e colore più chiaro
+        <img class="logo" src="img/logo-small.svg" alt="">
     </header>
     <main>
         <div class="container">
