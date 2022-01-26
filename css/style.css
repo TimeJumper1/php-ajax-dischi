@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1e2d3b;
+}
+header{
+    height: 80px;
+    background-color: #2e3a46;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.single-card{
+    background-color:#2e3a46 ;
+    width:calc((100% / 5) - 50px);
+    margin: 25px;
+    padding: 16px;
+    text-align: center;
+}
+.img-container{
+    width: 100%;
+}
+.img-container img{
+    width: 100%;
+}
+h3{
+    color: white;
+}
+h4{
+    color:#5e6b70 ;
+}
